@@ -15,11 +15,10 @@
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/88UzcSKOQai7KzFdNi1KW4UjPIH.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/88UzcSKOQai7KzFdNi1KW4UjPIH.jpg</fanart>
 <link>https://pastebin.com/raw/FdZtGswC</link>
-<info>[B][COLOR red] SINOPSE:Em uma cidade norueguesa envenenada pela poluição e abalada por geleiras derretendo, o fim dos tempos parece real. Só uma lenda pode combater um mal antigo.[COLOR red][/COLOR][/B]</info>	
 </item>
 
 <item>
-<title>[B][COLOR lime]•[/COLOR] [COLOR yellow]Brooklyn Nine-Nine [/COLOR][/B]</title>
+<title>[B][COLOR white]Brooklyn Nine-Nine - [COLOR red]Lançamento[COLOR red](2021) [/COLOR][/B]</title>
 <link>http://ignorame</link>
 <thumbnail>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Brooklyn%20Nine-Nine</thumbnail>
 <fanart>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Brooklyn%20Nine-Nine</fanart>
@@ -27,21 +26,21 @@
 </item> 
 
 <item>
-<title>[B][COLOR lime]•[/COLOR] [COLOR yellow]Pacificador [/COLOR][/B]</title>
+<title>[B][COLOR white]Pacificador - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
 <link>http://ignorame</link>
 <thumbnail>https://abutretorrents.com/imagens/pacificador-peacemaker-1-temporada-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/pacificador-peacemaker-1-temporada-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/RAMALHOTV/S-rie-Pacificador01-/main/README.md</externallink>
 </item> 
 <item>
-<title>[B][COLOR lime]•[/COLOR] [COLOR yellow]Falcão e o Soldado Invernal[/COLOR][/B]</title>
+<title>[B][COLOR white]Falcão e o Soldado Invernal - [COLOR red]Lançamento[COLOR red](2021) [/COLOR][/B]</title>
 <link>http://ignorame</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w8Hi3GI4q1oR6EImrDWrAQFn8Ha.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w8Hi3GI4q1oR6EImrDWrAQFn8Ha.jpg</fanart>
 <externallink>https://pastebin.com/raw/vAnRbn0g</externallink>
 </item> 
 <item>
-<title>[B][COLOR lime]•[/COLOR] [COLOR yellow]MUNDO EM CHAMAS[/COLOR][/B]</title>
+<title>[B][COLOR white]MUNDO EM CHAMAS- [COLOR red]Lançamento[COLOR red](2019) [/COLOR][/B]</title>
 <link>http://ignorame</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yhzBXDsiZjQv0EaIAy2Z6csEjyU.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yhzBXDsiZjQv0EaIAy2Z6csEjyU.jpg</fanart>
@@ -49,7 +48,7 @@
 </item>  
 
 <item>
-<title>[B][COLOR lime]•[/COLOR] [COLOR yellow]COBRA KAI [/COLOR][/B]</title>
+<title>[B][COLOR white]COBRA KAI- [COLOR red]Lançamento[COLOR red](2018) [/COLOR][/B]</title>
 <link>http://ignorame</link>
 <thumbnail>https://br.web.img2.acsta.net/pictures/21/01/04/12/12/0170975.jpg</thumbnail>
 <fanart>https://br.web.img2.acsta.net/pictures/21/01/04/12/12/0170975.jpg</fanart>
@@ -65,7 +64,7 @@
  <info>[B][COLOR red] SINOPSE:O Cavaleiro da Lua é um personagem ficcional das histórias em quadrinhos ou Banda desenhada do Universo Marvel, publicadas pela Marvel Comics. Seu nome verdadeiro é Marc Spector, embora ele se disfarce de outras pessoas para melhor investigar os casos que lhe interessam. [COLOR red][/COLOR][/B]</info>	
  </item> 
  <item> 
- <title>[B][COLOR lime]•[/COLOR] [COLOR yellow]LOKI - O REI DA TRAPAÇA [/COLOR][/B]</title>
+ <title>[B][COLOR white]LOKI - O REI DA TRAPAÇA- [COLOR red]Lançamento[COLOR red](2021) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a9310c8d2bd0433524209f5b276ab505478ae0c4$nome=LOKI EP 1</link>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a95f5215f23e9ecdf6fd06adbcf9bd05d0ffb9f4$nome=LOKI EP 2</link>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f1850a67dcfc039bc564de40070933923070268a$nome=LOKI EP 3</link>
@@ -79,14 +78,14 @@
  </item> 
 
 <item>
-<title>[B][COLOR lime]•[/COLOR] [COLOR yellow]LÁ CASA DE PAPEL [/COLOR][/B]</title>
+<title>[B][COLOR white]LÁ CASA DE PAPEL- [COLOR red]Lançamento[COLOR red](2017) [/COLOR][/B]</title>
 <link>http://ignorame</link>
 <thumbnail>https://studiosol-a.akamaihd.net/tb/cifra-blog/pt/wp-content/uploads/2018/02/la-casa-de-papel_musicas.jpg</thumbnail>
 <fanart>https://studiosol-a.akamaihd.net/tb/cifra-blog/pt/wp-content/uploads/2018/02/la-casa-de-papel_musicas.jpg</fanart>
 <externallink>https://pastebin.com/raw/JaTBCyFa</externallink>
 </item>
 <item>
-<title>[B][COLOR lime]•[/COLOR] [COLOR yellow]VIKINGS[/COLOR][/B]</title>
+<title>[B][COLOR white]VIKINGS- [COLOR red]Lançamento[COLOR red](2013) [/COLOR][/B]</title>
 <link>http://ignorame</link>
 <thumbnail>https://br.web.img3.acsta.net/pictures/19/12/04/22/35/3436063.jpg</thumbnail>
 <fanart>https://br.web.img3.acsta.net/pictures/19/12/04/22/35/3436063.jpg</fanart>
@@ -94,28 +93,28 @@
 </item>
 
 <item>
-<title>[B][COLOR lime]•[/COLOR] [COLOR yellow]ARROW [/COLOR][/B]</title>
+<title>[B][COLOR white]ARROW- [COLOR red]Lançamento[COLOR red](2012) [/COLOR][/B]</title>
 <link>http://ignorame</link>
 <thumbnail>https://m.media-amazon.com/images/I/91Kk+rJspPL._SY445_.jpg</thumbnail>
 <fanart>https://m.media-amazon.com/images/I/91Kk+rJspPL._SY445_.jpg</fanart>
 <externallink>https://pastebin.com/raw/1wkkRrPJ</externallink>
 </item>
 <item>
-<title>[B][COLOR lime]•[/COLOR] [COLOR yellow]THE FLASH  [/COLOR][/B]</title>
+<title>[B][COLOR white]THE FLASH- [COLOR red]Lançamento[COLOR red](2014) [/COLOR][/B]</title>
 <link>http://ignorame</link>
 <thumbnail>https://br.web.img2.acsta.net/pictures/17/09/29/21/15/4233147.jpg</thumbnail>
 <fanart>https://br.web.img2.acsta.net/pictures/17/09/29/21/15/4233147.jpg</fanart>
 <externallink>https://pastebin.com/raw/Dzc7wFbh</externallink>
 </item>
 <item>
-<title>[B][COLOR lime]•[/COLOR] [COLOR yellow]Superman e Lois[/COLOR][/B]</title>
+<title>[B][COLOR white]Superman e Lois- [COLOR red]Lançamento[COLOR red](2021) [/COLOR][/B]</title>
 <link>http://ignorame</link>
 <thumbnail>https://br.web.img2.acsta.net/pictures/21/12/23/09/39/2992103.jpg</thumbnail>
 <fanart>https://br.web.img2.acsta.net/pictures/21/12/23/09/39/2992103.jpg</fanart>
 <externallink>https://pastebin.com/raw/nmavn6ku</externallink>
 </item>
 <item>
-<title>[B][COLOR lime]•[/COLOR] [COLOR yellow]Smallville - As Aventuras do Superboy [/COLOR][/B]</title>
+<title>[B][COLOR white]Smallville - As Aventuras do Superboy- [COLOR red]Lançamento[COLOR red](2001) [/COLOR][/B]</title>
 <link>http://ignorame</link>
 <thumbnail>https://cdn.fstatic.com/media/movies/photos/2016/03/smallville-as-aventuras-do-superboy-1a-temporada_t13108.jpg</thumbnail>
 <fanart>https://cdn.fstatic.com/media/movies/photos/2016/03/smallville-as-aventuras-do-superboy-1a-temporada_t13108.jpg</fanart>
@@ -123,14 +122,14 @@
 </item>
 
 <item>
-<title>[B][COLOR lime]•[/COLOR] [COLOR yellow]LUCIFER [/COLOR][/B]</title>
+<title>[B][COLOR white]LUCIFER- [COLOR red]Lançamento[COLOR red](2016) [/COLOR][/B]</title>
 <link>http://ignorame</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1sBx2Ew4WFsa1YY32vlHt079O03.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1sBx2Ew4WFsa1YY32vlHt079O03.jpg</fanart>
 <externallink>https://pastebin.com/raw/QFGYTYbF</externallink>
 </item>
 <item>
-<title>[B][COLOR lime]•[/COLOR] [COLOR yellow]Van Helsing [/COLOR][/B]</title>
+<title>[B][COLOR white]Van Helsing- [COLOR red]Lançamento[COLOR red](2016) [/COLOR][/B]</title>
 <link>http://ignorame</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cu9wob15Rdxf7KISXmSabvlUolj.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cu9wob15Rdxf7KISXmSabvlUolj.jpg</fanart>
@@ -139,7 +138,7 @@
 
 
 <item>
-<title>[B][COLOR lime]•[/COLOR] [COLOR yellow]CARCEREIROS [/COLOR][/B]</title>
+<title>[B][COLOR white]CARCEREIROS- [COLOR red]Lançamento[COLOR red](2021) [/COLOR][/B]</title>
 <link>http://ignorame</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/k85j2uQUjl6h7rkWpDyu4qX3kYZ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/k85j2uQUjl6h7rkWpDyu4qX3kYZ.jpg</fanart>
@@ -147,7 +146,7 @@
 </item>  
 
 <item>
-<title>[B][COLOR lime]•[/COLOR] [COLOR yellow]GUERRA DOS SAMURAIS[/COLOR][/B]</title>
+<title>[B][COLOR white]GUERRA DOS SAMURAIS- [COLOR red]Lançamento[COLOR red](2019) [/COLOR][/B]</title>
 <link>http://ignorame</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/wIKQRtc2kKiBmBnkOjjvMqIDfah.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/wIKQRtc2kKiBmBnkOjjvMqIDfah.jpg</fanart>
@@ -155,7 +154,7 @@
 </item>  
 
 <item>
-<title>[B][COLOR lime]•[/COLOR] [COLOR yellow]WANDA VISION [/COLOR][/B]</title>
+<title>[B][COLOR white]WANDA VISION - [COLOR red]Lançamento[COLOR red](2021) [/COLOR][/B]</title>
 <link>http://ignorame</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/cm5xwxoWl2ZWuCKzwa0umHHsbmI.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/cm5xwxoWl2ZWuCKzwa0umHHsbmI.jpg</fanart>
@@ -163,7 +162,7 @@
 </item>  
 
 <item>
-<title>[B][COLOR lime]•[/COLOR] [COLOR yellow]KRYPTON [/COLOR][/B]</title>
+<title>[B][COLOR white]KRYPTON - [COLOR red]Lançamento[COLOR red](2018) [/COLOR][/B]</title>
 <link>http://ignorame</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/kMMWb4zIZKBnO3lOpVBXCL1BeNI.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/kMMWb4zIZKBnO3lOpVBXCL1BeNI.jpg</fanart>
@@ -171,7 +170,7 @@
 </item>  
 
 <item>
-<title>[B][COLOR lime]•[/COLOR] [COLOR yellow]THE GOOD  DOCTOR [/COLOR][/B]</title>
+<title>[B][COLOR white]THE GOOD  DOCTOR - [COLOR red]Lançamento[COLOR red](2017) [/COLOR][/B]</title>
 <link>http://ignorame</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/61-7hn1OjYL._SL1143_.jpg</thumbnail>
 <fanart>https://images-na.ssl-images-amazon.com/images/I/61-7hn1OjYL._SL1143_.jpg</fanart>
