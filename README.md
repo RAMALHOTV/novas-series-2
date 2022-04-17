@@ -298,3 +298,70 @@
  <fanart>https://abutretorrents.com/imagens/o-legado-de-jupiter-1-temporada-completa-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
  <info>[B][COLOR red] SINOPSE:Depois de quase um século mantendo a humanidade segura, a primeira geração de super-heróis do mundo deve confiar nos seus filhos para continuar o legado. Mas as tensões aumentam à medida que os jovens super-heróis, famintos por provar seu valor, lutam para viver de acordo com a lendária reputação pública de seus pais - e exigentes padrões pessoais. Adaptação da HQ de Mark Millar e Frank Quitely. [COLOR red][/COLOR][/B]</info>	
  </item> 
+
+<item> 
+ <title>[B][COLOR white]Stranger Things - [COLOR red]Lançamento[COLOR red](2019) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AE5916202F1A04E14CECC07DE532BB69EF8158CD$nome=[COLOR lime]1ªTEMPORADA[/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4A7E451C04E3B2D75842EFAD281B60F72047C33C$nome=[COLOR lime]2ªTEMPORADA[/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5079215F8A67D9B69D06797E01D8D85D4992C47D$nome=[COLOR lime]3ªTEMPORADA[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://www.themoviedb.org/t/p/original/2K4udBpTrfMUbKGEkhVzQKc7JSd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9URpkzaMMLK5bdJ1a5HBafzYEWj.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Primeira temporada completa dublada e dual áudio de Stranger Things. Situada no interior de Indiana, na década de 1980, a história inicia com o desaparecimento de Will, um menino de 12 anos. Enquanto a família e os amigos tentam entender o que aconteceu, o chefe de polícia Hooper inicia uma investigação e se depara com experiências secretas conduzidas pelo governo numa base militar no subúrbio da cidade. Ao mesmo tempo, os amigos de Will - Mike, Dustin e Lucas - tentam localizá-lo por conta própria, mas acabam encontrando Eleven, uma menina misteriosa, com estranhos poderes. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Os Originais - [COLOR red]Lançamento[COLOR red](2012) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c28f803f5061199809a1ded6c01860b094543780$nome=[COLOR lime]1ªTEMPORADA[/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C6711A5AC9188C845EAE47FC06AAB039ADC3D30E$nome=[COLOR lime]2ªTEMPORADA[/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F924FCA3AEC82D49799CFDF5A0DFCDB2ED72CF0C$nome=[COLOR lime]3ªTEMPORADA[/COLOR] - DUBLADO</link>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:94ba9567ca02b09c1689f63afe535d7da2422411$nome=[COLOR lime]4ªTEMPORADA[/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f6470d3d3aab9504331cdb2e3890a692f46584c1$nome=[COLOR lime]5ªTEMPORADA[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j4YEHjh1t9mHpdDwbqLCc04xBMY.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart></fanart>
+ <info>[B][COLOR red] SINOPSE:O canal CW está preparando um spin-off de The Vampire Diaries. Intitulada The Originals, a nova série será centrada em torno dos vampiros conhecidos como Originais, liderados pelo personagem Klaus (Joseph Morgan). A trama da série derivada vai ser introduzida em um episódio da atual quarta temporada de The Vampire Diaries, que está programado para ir ao ar em 25 de abril nos Estados Unidos. No episódio que servirá como o piloto de The Originals, Klaus retorna à província colonial francesa de Nova Orleans, cidade que ele ajudou a construir há séculos, e se reencontra com seu diabólico ex-protegido Marcel. Phoebe Tonkin (Hayley), que se juntou recentemente ao elenco de The Vampire Diaries, também reprisa seu papel no episódio especial. [COLOR red][/COLOR][/B]</info>	
+ </item>
+
+ <item> 
+ <title>[B][COLOR white]O Último Reino - [COLOR red]Lançamento[COLOR red](2015) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5F0F0D4D1C08B4A15B217BBD088EDFA59B3ECCEB$nome=[COLOR lime]1ªTEMPORADA[/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A08729C2BAC3A087BF33AC15FB33A11E26E0B79A$nome=[COLOR lime]2ªTEMPORADA[/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C188FA718B7119725FA80EE094950D904C4D09D2$nome=[COLOR lime]3ªTEMPORADA[/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:170f92bcc39ec69fd3f8424cae17608f0d5e3ed7$nome=[COLOR lime]4ªTEMPORADA[/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e01ffb78a7296382cc9c1bbbaee62799ba933d58$nome=[COLOR lime]5ªTEMPORADA[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fMNJjzZUdc8pBVIQ85olSNaBKix.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://www.themoviedb.org/t/p/original/QbtctI8EzlhsyFDMUMyG3fli8B.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE: Enquanto Alfredo, o Grande, defende seu reino de invasões nórdicas, Uhtred, um saxão criado por vikings, planeja reivindicar o que é seu por direito.[COLOR red][/COLOR][/B]</info>	
+ </item>  
+
+ <item> 
+ <title>[B][COLOR white]BREAKING BAD  - [COLOR red]Lançamento[COLOR red](2008) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E9876A1688FC774068FECC94A991F300F45CF2B7$nome=[COLOR lime]1ªTEMPORADA[/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8BC586D090EABF47E46902BEC330697BF0D0C4F6$nome=[COLOR lime]2ªTEMPORADA[/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4CB9C6EE323F0E58816972052F846599B88B8D6F$nome=[COLOR lime]3ªTEMPORADA[/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b3c17c5d56b3ff4088cfb33cbf98eb6ff4b5ce38$nome=[COLOR lime]4ªTEMPORADA[/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:525f80c8c7a73e48a914ee57eabac597aea1e5d9$nome=[COLOR lime]5ªTEMPORADA[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/bQkJ7THLSk3wBKK8ziGWwvk7TUJ.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/hbgPoI0GBrXJfGjYNV2fMQU0xou.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:O professor de química Walter White não acredita que sua vida possa piorar ainda mais. Quando descobre que tem câncer terminal, Walter decide arriscar tudo para ganhar dinheiro enquanto pode, transformando sua van em um laboratório de metanfetamina. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white]3 Toneladas - Assalto ao Banco Central - [COLOR red]Lançamento[COLOR red](2022)[/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih::btih:e67bfe13c14e1282a1d977d625aa1d2922c3d4af$$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:6410cda0f18ab2eac9c19215f40a48e01c466d7b$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qzYfiX3t8b9Kg7RhAHl5WDi5usI.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://www.themoviedb.org/t/p/original/rhO9JVT6VCsPNx6aNddqHmZHDQM.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Em 2005, através de um túnel, ladrões invadem o cofre do Banco Central do Brasil localizado em Fortaleza, no Ceará, e roubam mais de 160 milhões de reais. Com depoimentos inéditos, esta série documental examina o assalto histórico e revela as trágicas consequências de um golpe milionário que parecia perfeito. [COLOR red][/COLOR][/B]</info>	
+ </item>
+ 
+<item>
+<title>[B][COLOR white]Supergirl [COLOR red]Lançamento[COLOR red](2015)[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2TVS3QL9DsowCP65ByC3BNnI2L.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3Gt0uFwrfjeqcCENloU3L0eeVHE.jpg</fanart>
+<externallink>https://pastebin.com/raw/AH5E8Yj8</externallink>
+</item>  
