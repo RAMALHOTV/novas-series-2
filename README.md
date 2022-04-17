@@ -14,7 +14,7 @@
 <link>http://ignorame</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/88UzcSKOQai7KzFdNi1KW4UjPIH.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/88UzcSKOQai7KzFdNi1KW4UjPIH.jpg</fanart>
-<link>https://pastebin.com/raw/FdZtGswC</link>
+<externallink>https://pastebin.com/raw/FdZtGswC</externallink>
 </item>
 
 <item>
@@ -55,7 +55,7 @@
 <externallink>https://pastebin.com/raw/Kh1cZYM7</externallink>
 </item>
  <item> 
- <title>[B][COLOR lime]•[/COLOR] [COLOR yellow]O Cavaleiro da Lua [/COLOR][/B]</title>
+<title>[B][COLOR white]]O Cavaleiro da Lua - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4f5157fd9f93669e26a925c916d95cf6ae5ea446$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4f5157fd9f93669e26a925c916d95cf6ae5ea446$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
  <thumbnail>https://br.web.img3.acsta.net/pictures/22/02/21/21/06/4583208.jpg</thumbnail>
