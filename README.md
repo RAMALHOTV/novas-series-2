@@ -10,11 +10,12 @@
 
 
 <item>
-<title>[B][COLOR lime]•[/COLOR] [COLOR yellow]RAGNAROK  [/COLOR][/B]</title>
+<title>[B][COLOR white]RAGNAROK - [COLOR red]Lançamento[COLOR red](2020) [/COLOR][/B]</title>
 <link>http://ignorame</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/88UzcSKOQai7KzFdNi1KW4UjPIH.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/88UzcSKOQai7KzFdNi1KW4UjPIH.jpg</fanart>
 <link>https://pastebin.com/raw/FdZtGswC</link>
+<info>[B][COLOR red] SINOPSE:Em uma cidade norueguesa envenenada pela poluição e abalada por geleiras derretendo, o fim dos tempos parece real. Só uma lenda pode combater um mal antigo.[COLOR red][/COLOR][/B]</info>	
 </item>
 
 <item>
