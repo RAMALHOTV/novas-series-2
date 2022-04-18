@@ -374,3 +374,11 @@
 <externallink>https://pastebin.com/raw/1TdeVzFx</externallink>
 <info>[B][COLOR red] SINOPSE:Nos Estados Unidos pós-apocalíptico, um pequeno grupo de sobreviventes segue viajando à procura de uma nova casa longe dos mortos-vivos. O desespero por segurança e suprimentos os coloca constantemente à beira da sanidade.[COLOR red][/COLOR][/B]</info>  
 </item>
+<item>
+<title>[B][COLOR white]Máquina Mortífera - [COLOR red]Lançamento[COLOR red](2016) [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fRiYwQTFsGMZfFuCMPm2X7GAxjd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rY3ARkhHg17FKFENv6w6JFgxofA.jpg</fanart>
+<externallink>https://pastebin.com/raw/JAXefPqb</externallink>
+<info>[B][COLOR red] SINOPSE:Riggs é um ex-agente que tenta recomeçar a vida. Murtaugh está de volta ao batente após um infarto quase fatal. Juntos, os policiais vão combater o crime em Los Angeles.[COLOR red][/COLOR][/B]</info>  
+</item>
