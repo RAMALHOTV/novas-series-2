@@ -365,3 +365,12 @@
 <fanart>https://www.themoviedb.org/t/p/original/3Gt0uFwrfjeqcCENloU3L0eeVHE.jpg</fanart>
 <externallink>https://pastebin.com/raw/AH5E8Yj8</externallink>
 </item>  
+
+<item>
+<title>[B][COLOR white]the Walking Dead - [COLOR red]Lançamento[COLOR red](2010) [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wmv0oIun52Xeq65sBKfHiUkiBKc.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qgEqN2evfxGhXyIjIpMdKSc1kF6.jpg</fanart>
+<externallink>https://pastebin.com/raw/1TdeVzFx</externallink>
+<info>[B][COLOR red] SINOPSE:Nos Estados Unidos pós-apocalíptico, um pequeno grupo de sobreviventes segue viajando à procura de uma nova casa longe dos mortos-vivos. O desespero por segurança e suprimentos os coloca constantemente à beira da sanidade.[COLOR red][/COLOR][/B]</info>  
+</item>
