@@ -408,3 +408,12 @@
  <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sWv8T2WlSrmssqQ4egi9oE4g237.jpg</fanart>
  <info>[B][COLOR red] SINOPSE:Abby Arcane (Crystal Reed) é uma pesquisadora da Coordenadoria de Controle de Doenças que precisa investigar um vírus originado de um pântano em Marais, Louisiana, com a ajuda do cientista Alec Holland (Andy Bean). Quando Holland some misteriosamente, a cidade é então tomada por forças poderosas com o objetivo de explorar as peculiaridades do pântano, o que faz Arcane perceber que talvez seu colega não tenha desaparecido - e sim se tornado um protetor monstruoso. [COLOR red][/COLOR][/B]</info>	
  </item> 
+ <item>
+<title>[B][COLOR white] RAIO NEGRO- [COLOR red]Lançamento[COLOR red](2016) [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pBibiDKiguCRRoOzZsq6wkfkPLk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lTQOBwJ67IKCE4x9nk8fOOhEWWy.jpg</fanart>
+<externallink>https://pastebin.com/raw/zQZL0gdw</externallink>
+<info>[B][COLOR red] SINOPSE:uper-herói aposentado e diretor de uma escola, o lendário Raio Negro tem de voltar à ativa quando uma gangue começa a ameaçar sua família.[COLOR red][/COLOR][/B]</info>  
+</item>
+
