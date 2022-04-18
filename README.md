@@ -367,7 +367,7 @@
 </item>  
 
 <item>
-<title>[B][COLOR white]the Walking Dead - [COLOR red]Lançamento[COLOR red](2010) [/COLOR][/B]</title>
+<title>[B][COLOR white]The Walking Dead - [COLOR red]Lançamento[COLOR red](2010) [/COLOR][/B]</title>
 <link>http://ignorame</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wmv0oIun52Xeq65sBKfHiUkiBKc.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/qgEqN2evfxGhXyIjIpMdKSc1kF6.jpg</fanart>
