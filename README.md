@@ -382,3 +382,29 @@
 <externallink>https://pastebin.com/raw/JAXefPqb</externallink>
 <info>[B][COLOR red] SINOPSE:Riggs é um ex-agente que tenta recomeçar a vida. Murtaugh está de volta ao batente após um infarto quase fatal. Juntos, os policiais vão combater o crime em Los Angeles.[COLOR red][/COLOR][/B]</info>  
 </item>
+
+
+
+ 
+
+
+ 
+
+
+
+
+ <item> 
+ <title>[B][COLOR white]Monstro do Pântano  - [COLOR red]1ªTEMPORADA[COLOR red](2016) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2525d34f51b11b1cfe2be55ad1fa7f53c4e5ee11$nome=[COLOR lime] Monstro do Pântano S01E01 720P[/COLOR]</link>
+  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5da5e011dc6f83148510fabe3f2869eeda9eb47a$nome=[COLOR lime] Monstro do Pântano S01E02 720P[/COLOR]</link>
+  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4f0e61e6c1532a361d6bd896b7a64d8e6b491408$nome=[COLOR lime] Monstro do Pântano S01E03 720P[/COLOR]</link>
+  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a8bad08b308959cf19bd66a29cb5844e3025c1d0$nome=[COLOR lime] Monstro do Pântano S01E04 720P[/COLOR]</link>
+  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab51d4400ee453266f854139888fae425bc7601a$nome=[COLOR lime] Monstro do Pântano S01E05E06 720P[/COLOR]</link>
+  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4543c1fc724133c6a7283f3f68676177d82b01a5$nome=[COLOR lime] Monstro do Pântano S01E07 720P[/COLOR]</link>
+  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08c89763b75fe9ea7bbf122e5609301cd274928a$nome=[COLOR lime] Monstro do Pântano S01E08E09 720P[/COLOR]</link>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81e14d8775ac5ce5ca43d10afcfe27c4165b133f$nome=[COLOR lime] Monstro do Pântano S01E10 720P[/COLOR]</link>
+ <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sWv8T2WlSrmssqQ4egi9oE4g237.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sWv8T2WlSrmssqQ4egi9oE4g237.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Abby Arcane (Crystal Reed) é uma pesquisadora da Coordenadoria de Controle de Doenças que precisa investigar um vírus originado de um pântano em Marais, Louisiana, com a ajuda do cientista Alec Holland (Andy Bean). Quando Holland some misteriosamente, a cidade é então tomada por forças poderosas com o objetivo de explorar as peculiaridades do pântano, o que faz Arcane perceber que talvez seu colega não tenha desaparecido - e sim se tornado um protetor monstruoso. [COLOR red][/COLOR][/B]</info>	
+ </item> 
