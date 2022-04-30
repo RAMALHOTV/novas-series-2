@@ -20,10 +20,21 @@
 <item>
 <title>[B][COLOR white]Brooklyn Nine-Nine - [COLOR red]Lançamento[COLOR red](2021) [/COLOR][/B]</title>
 <link>http://ignorame</link>
-<thumbnail>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Brooklyn%20Nine-Nine</thumbnail>
-<fanart>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Brooklyn%20Nine-Nine</fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/7/71/Brooklyn_Nine-Nine-5.jpg/230px-Brooklyn_Nine-Nine-5.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/pt/thumb/7/71/Brooklyn_Nine-Nine-5.jpg/230px-Brooklyn_Nine-Nine-5.jpg</fanart>
 <externallink>https://pastebin.com/raw/D5pPHYAM</externallink>
 </item> 
+<item> 
+ <title>[B][COLOR white] Impuros - [COLOR red]Completa[COLOR red](2018) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7bcb118d214f823798db6723506ffb614548e86e$nome=[COLOR lime]1ª TEMPORADA [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d2dd32a1c87e1c9e81da259845189949fc49564$nome=[COLOR lime]2ª TEMPORADA [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VN3DRVK6ON2J2EGNBBZ5QEOT2LF5HJMN$nome=[COLOR lime]3ª TEMPORADA [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/capas/impuros-completa-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Policial / Drama / Nacional</genre>
+ <fanart>https://abutretorrents.com/capas/impuros-completa-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Impuros 1ª Temporada Completa (2018) Nacional HDTV 720p – Download – Rio de Janeiro, durante os anos 90. Evandro sonha em se tornar um grande empresário, mas acaba entrando no mundo do crime e fazendo um império de sua organização criminosa. Suas habilidades de negócios e habilidades de liderança chamam a atenção de Morello, um policial federal com comportamento autodestrutivo que vê em Evandro um inimigo valioso. Dois estrategistas que compartilham o amor pelo perigo. A caçada começa.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+
 
 <item>
 <title>[B][COLOR white]Pacificador - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
