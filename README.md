@@ -1,4 +1,14 @@
- <item>
+</item> 
+<item> 
+ <title>[B][COLOR white]Mulher-Hulk - Defensora de Heróis - [COLOR red]1ª Temporada[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65P6SJ3TAC25VLMV375EKYSND7ZDS2GZ$nome=[COLOR lime]1ª TEMPORADA [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/mulher-hulk-defensora-de-herois-1-temporada-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Aventura / Comédia</genre>
+ <fanart>https://abutretorrents.com/imagens/mulher-hulk-defensora-de-herois-1-temporada-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:ennifer Walters é uma jovem advogada de super-heróis que tenta provar seu valor e seu talento na sua área de trabalho... apesar do fato dela ter dois metros de altura e ser verde.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+<item>
 <title>[B][COLOR white] Sintonia - [COLOR red]Lançamento[COLOR red](2019) [/COLOR][/B]</title>
 <link>http://ignorame</link>
 <thumbnail>https://abutretorrents.com/capas/sintonia-1-temporada-completa-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
