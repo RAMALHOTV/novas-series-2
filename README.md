@@ -1,3 +1,13 @@
+<item> 
+ <title>[B][COLOR white]Santo - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DIAOC6ISYAOSY45BNHMLZQKXZ3QYN537$nome=[COLOR lime]1080P[/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DIAOC6ISYAOSY45BNHMLZQKXZ3QYN537$nome=[COLOR lime]720P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://torrentsdublados.com/imagens/santo-1-temporada-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama</genre>
+ <fanart>https://torrentsdublados.com/imagens/santo-1-temporada-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:A trama gira em torno de Santo, um narcotraficante cujo rosto nunca foi visto e que é investigado pelos policiais federais Ernesto Cardona e Miguel Millán. Radicalmente opostos, eles terão que aprender a colaborar um com o outro para resolver o caso e manter suas vidas seguras. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
 <item>
 <title>[B][COLOR white] Bárbaros - [COLOR red]Lançamento[COLOR red](2020) [/COLOR][/B]</title>
 <link>http://ignorame</link>
