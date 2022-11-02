@@ -1,3 +1,53 @@
+<item>
+<title>[B][COLOR white] SEE- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2TSJEFJyTH6yAg1QHJEObxyBSxo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2TSJEFJyTH6yAg1QHJEObxyBSxo.jpg</fanart>
+<externallink>https://pastebin.com/raw/Vp86eZZT</externallink>
+</item>
+
+
+<item>
+<title>[B][COLOR white]A CASA DO DRAGÃO - [COLOR red]Lançamento[COLOR red](2021) [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ruHPkmmAwBTCzNXtHot18rs6ctN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ruHPkmmAwBTCzNXtHot18rs6ctN.jpg</fanart>
+<externallink>https://pastebin.com/raw/McTD52AL</externallink>
+</item>
+
+<item>
+<title>[B][COLOR white] O SENHOR DOS ANÉIS - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/utAMIYnHweINM2jiMJYII9ILCw2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/utAMIYnHweINM2jiMJYII9ILCw2.jpg</fanart>
+<externallink>https://pastebin.com/raw/LtDK29Lf</externallink>
+</item>
+
+<item>
+<title>[B][COLOR white]ILHA DE FERRO - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ifXTyHmGWsIUWtxuGUu4posArTV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ifXTyHmGWsIUWtxuGUu4posArTV.jpg</fanart>
+<externallink>https://pastebin.com/raw/GkVBzqQb</externallink>
+</item>
+
+<item>
+<title>[B][COLOR white] DAHMER: UM CANIBAL AMERICANO - [COLOR red]Lançamento[COLOR red](2019) [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/67ujv4O6AalmGu3UaVSNdcw8juT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/67ujv4O6AalmGu3UaVSNdcw8juT.jpg</fanart>
+<externallink>https://pastebin.com/raw/PhBtPWca</externallink>
+</item>
+
+<item>
+<title>[B][COLOR white]TED LASSO - [COLOR red]Lançamento[COLOR red](2019) [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oLD27sNIG3QoqG9G9oOldu1VjcZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/oLD27sNIG3QoqG9G9oOldu1VjcZ.jpg</fanart>
+<externallink>https://pastebin.com/raw/cY44mHSd</externallink>
+</item>
+
+
 </item> 
 <item> 
  <title>[B][COLOR white]Mulher-Hulk - Defensora de Heróis - [COLOR red]1ª Temporada[COLOR red](2022) [/COLOR][/B]</title>
