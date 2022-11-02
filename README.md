@@ -1,4 +1,20 @@
 <item>
+<title>[B][COLOR white] Bárbaros - [COLOR red]Lançamento[COLOR red](2020) [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6i3HTNt1in70Cm9jTIkck485PW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6i3HTNt1in70Cm9jTIkck485PW.jpg</fanart>
+<externallink>https://pastebin.com/raw/NrhqdPxH</externallink>
+</item>
+
+<item>
+<title>[B][COLOR white]Os Winchesters - [COLOR red]Lançamento[COLOR red](2019) [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yTkyu8I8OYxlyVu0lhNYPR2oym3.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yTkyu8I8OYxlyVu0lhNYPR2oym3.jpg</fanart>
+<externallink>https://pastebin.com/raw/vzAzbgYT</externallink>
+</item>
+
+<item>
 <title>[B][COLOR white] SEE- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
 <link>http://ignorame</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/2TSJEFJyTH6yAg1QHJEObxyBSxo.jpg</thumbnail>
