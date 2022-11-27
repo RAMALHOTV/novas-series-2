@@ -1,4 +1,14 @@
 <item> 
+ <title>[B][COLOR white]Wandinha - 1ª Temporada - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3D62JGJ2GI7SYECF5UFIGMV4DCDTFCXA$nome=[COLOR lime]1080P[/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MKZVVBOWI3HUOAEIERYQYFBZWSTKDGIT$nome=[COLOR lime]720P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/wandinha-1-temporada-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama</genre>
+ <fanart>https://abutretorrents.com/imagens/wandinha-1-temporada-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE Segue os anos de Wandinha (Wednesday Addams) como estudante, quando ela tenta dominar sua habilidade psíquica emergente, frustrar e resolver o mistério que envolveu seus pais. Emissora: Netflix • Episódios: 8 • Duração: 45 min. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+<item> 
  <title>[B][COLOR white]Santo - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DIAOC6ISYAOSY45BNHMLZQKXZ3QYN537$nome=[COLOR lime]1080P[/COLOR] - DUBLADO</link> 
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DIAOC6ISYAOSY45BNHMLZQKXZ3QYN537$nome=[COLOR lime]720P[/COLOR] - DUBLADO</link> 
