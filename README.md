@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1 tvg-id="" tvg-name="His Dark Materials: Fronteiras do Universo S03 E01" tvg-logo="https://image.tmdb.org/t/p/w300/hb0wGxQwck2JlLHCbENPDRchLI1.jpg" group-title="HBO+",His Dark Materials: Fronteiras do Universo S03 E01
 http://goal.hostingiscoremm9.xyz:2052/series/TouroVod-VeW4mnwgG8/3RxTG90GXe/105654.mp4
 #EXTINF:-1 tvg-id="" tvg-name="His Dark Materials: Fronteiras do Universo S03 E02" tvg-logo="https://image.tmdb.org/t/p/w300/sXrBjGu48gTEGeUxqMMH4yQ57eN.jpg" group-title="HBO+",His Dark Materials: Fronteiras do Universo S03 E02
